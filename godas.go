@@ -2,7 +2,6 @@ package godas
 
 import (
 	"encoding/xml"
-	"errors"
 	"fmt"
 	"net"
 	"strings"
