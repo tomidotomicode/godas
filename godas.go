@@ -1,4 +1,4 @@
-package github.com/tomidotomicode/godas
+package godas
 
 import (
 	"encoding/xml"
@@ -119,4 +119,5 @@ func buildRequest(domain string) string {
   </iris1:searchSet>
 </iris1:request>`, domain)
 }
+
 
